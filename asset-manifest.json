@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.06f8026c.css",
-    "main.js": "/Portfolio/static/js/main.527f39fb.js",
+    "main.css": "/Portfolio/static/css/main.72ac35cb.css",
+    "main.js": "/Portfolio/static/js/main.41df957f.js",
     "static/media/PopularMoviePredictionImage.png": "/Portfolio/static/media/PopularMoviePredictionImage.cc5db64830c559c3f6fa.png",
     "static/media/openingPic.jpg": "/Portfolio/static/media/openingPic.882e149f62ed001aaa2f.jpg",
     "static/media/PaintImage.png": "/Portfolio/static/media/PaintImage.f9ebb0932ea44fa26b8e.png",
@@ -11,11 +11,11 @@
     "static/media/orProfilePic.jpg": "/Portfolio/static/media/orProfilePic.ab3aecac87611facf9c4.jpg",
     "static/media/bootstrapIcon.png": "/Portfolio/static/media/bootstrapIcon.ff4ba441ec3324145fde.png",
     "index.html": "/Portfolio/index.html",
-    "main.06f8026c.css.map": "/Portfolio/static/css/main.06f8026c.css.map",
-    "main.527f39fb.js.map": "/Portfolio/static/js/main.527f39fb.js.map"
+    "main.72ac35cb.css.map": "/Portfolio/static/css/main.72ac35cb.css.map",
+    "main.41df957f.js.map": "/Portfolio/static/js/main.41df957f.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f8026c.css",
-    "static/js/main.527f39fb.js"
+    "static/css/main.72ac35cb.css",
+    "static/js/main.41df957f.js"
   ]
 }
