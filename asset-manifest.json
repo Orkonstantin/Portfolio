@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.06f8026c.css",
+    "main.js": "/Portfolio/static/js/main.527f39fb.js",
+    "static/media/PopularMoviePredictionImage.png": "/Portfolio/static/media/PopularMoviePredictionImage.cc5db64830c559c3f6fa.png",
+    "static/media/openingPic.jpg": "/Portfolio/static/media/openingPic.882e149f62ed001aaa2f.jpg",
+    "static/media/PaintImage.png": "/Portfolio/static/media/PaintImage.f9ebb0932ea44fa26b8e.png",
+    "static/media/ReactWeatherAppImage.png": "/Portfolio/static/media/ReactWeatherAppImage.a5fba86c9cf62a957feb.png",
+    "static/media/IotSmartLockImage.png": "/Portfolio/static/media/IotSmartLockImage.763567051e76f6bb3335.png",
+    "static/media/CostManagerImage.png": "/Portfolio/static/media/CostManagerImage.5bde4d33a7499fb04bfb.png",
+    "static/media/orProfilePic.jpg": "/Portfolio/static/media/orProfilePic.ab3aecac87611facf9c4.jpg",
+    "static/media/bootstrapIcon.png": "/Portfolio/static/media/bootstrapIcon.ff4ba441ec3324145fde.png",
+    "index.html": "/Portfolio/index.html",
+    "main.06f8026c.css.map": "/Portfolio/static/css/main.06f8026c.css.map",
+    "main.527f39fb.js.map": "/Portfolio/static/js/main.527f39fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f8026c.css",
+    "static/js/main.527f39fb.js"
+  ]
+}
