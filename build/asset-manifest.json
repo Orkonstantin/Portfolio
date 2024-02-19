@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.72ac35cb.css",
-    "main.js": "/Portfolio/static/js/main.3a398933.js",
+    "main.css": "/Portfolio/static/css/main.d9ad0d3c.css",
+    "main.js": "/Portfolio/static/js/main.a2daaa9f.js",
     "static/media/PopularMoviePredictionImage.png": "/Portfolio/static/media/PopularMoviePredictionImage.cc5db64830c559c3f6fa.png",
     "static/media/openingPic.jpg": "/Portfolio/static/media/openingPic.882e149f62ed001aaa2f.jpg",
     "static/media/PaintImage.png": "/Portfolio/static/media/PaintImage.f9ebb0932ea44fa26b8e.png",
+    "static/media/NikeshoesE-commerceImage.png": "/Portfolio/static/media/NikeshoesE-commerceImage.4a42c9807bbaabd0e930.png",
     "static/media/ReactWeatherAppImage.png": "/Portfolio/static/media/ReactWeatherAppImage.a5fba86c9cf62a957feb.png",
     "static/media/IotSmartLockImage.png": "/Portfolio/static/media/IotSmartLockImage.763567051e76f6bb3335.png",
+    "static/media/tailwindcssIcon.png": "/Portfolio/static/media/tailwindcssIcon.d2054f82828b046525b9.png",
     "static/media/CostManagerImage.png": "/Portfolio/static/media/CostManagerImage.5bde4d33a7499fb04bfb.png",
+    "static/media/javaIcon.png": "/Portfolio/static/media/javaIcon.95a2348a4af3182da2b7.png",
+    "static/media/NikeshoesE-commerceAdminImage.png": "/Portfolio/static/media/NikeshoesE-commerceAdminImage.b25862bd592a3fc1d9c7.png",
     "static/media/orProfilePic.jpg": "/Portfolio/static/media/orProfilePic.ab3aecac87611facf9c4.jpg",
+    "static/media/nextJsIcon.png": "/Portfolio/static/media/nextJsIcon.75d8c367656f04039f34.png",
     "static/media/bootstrapIcon.png": "/Portfolio/static/media/bootstrapIcon.ff4ba441ec3324145fde.png",
     "index.html": "/Portfolio/index.html",
-    "main.72ac35cb.css.map": "/Portfolio/static/css/main.72ac35cb.css.map",
-    "main.3a398933.js.map": "/Portfolio/static/js/main.3a398933.js.map"
+    "main.d9ad0d3c.css.map": "/Portfolio/static/css/main.d9ad0d3c.css.map",
+    "main.a2daaa9f.js.map": "/Portfolio/static/js/main.a2daaa9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.72ac35cb.css",
-    "static/js/main.3a398933.js"
+    "static/css/main.d9ad0d3c.css",
+    "static/js/main.a2daaa9f.js"
   ]
 }
