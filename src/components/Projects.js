@@ -36,20 +36,6 @@ const cardItems = [
   },
   {
     id: 4,
-    headline: "Paint",
-    photo: PaintImage,
-    description: "Paint application developed using C++ and MFC framework.",
-    url: "https://github.com/Orkonstantin/Paint",
-  },
-  {
-    id: 5,
-    headline: "IOT Smart-Lock",
-    photo: IotSmartLockImage,
-    description: "IOT Smart Lock application developed using python.",
-    url: "https://github.com/Orkonstantin/IOT-Smart-Lock",
-  },
-  {
-    id: 6,
     headline: "Nike shoes E-commerce",
     photo: NikeShoesEcommerceImage,
     description:
@@ -57,13 +43,27 @@ const cardItems = [
     url: "https://nike-shoes-ecommerce-o.vercel.app/",
   },
   {
-    id: 7,
+    id: 5,
     headline: "Nike Shoes Ecommerce Admin",
     photo: NikeShoesEcommerceAdminImage,
     description:
       "A Next.js project for an ecommerce admin panel, providing a user interface for managing products, orders, and categories.",
     url: "https://github.com/Orkonstantin/Nike-Shoes-Ecommerce-Admin",
   },
+  // {
+  //   id: 6,
+  //   headline: "Paint",
+  //   photo: PaintImage,
+  //   description: "Paint application developed using C++ and MFC framework.",
+  //   url: "https://github.com/Orkonstantin/Paint",
+  // },
+  // {
+  //   id: 7,
+  //   headline: "IOT Smart-Lock",
+  //   photo: IotSmartLockImage,
+  //   description: "IOT Smart Lock application developed using python.",
+  //   url: "https://github.com/Orkonstantin/IOT-Smart-Lock",
+  // },
 ];
 
 function determineClasses(indexes, cardIndex) {
